@@ -39,9 +39,9 @@ POST /student
 Content-Type: application/json
 
 {
-  "studentID": "12345",
-  "studentName": "Asmit Panigrahi",
-  "course": "Electronics"
+  "studentID": "0093276542",
+  "studentName": "Ali",
+  "course": "OS"
 }
 ```
 
